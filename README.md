@@ -41,12 +41,7 @@ Este é um projeto simples desenvolvido em **React** com **TypeScript** para ger
 
 1.  Clone este repositório:
     
-    bash
-    
-    CopiarEditar
-    
-    `git clone <link-do-repositório>
-    cd <nome-do-projeto>` 
+    `[git clone https://github.com/ThainaSantoss/ListaDeTarefas-react.git` 
     
 2.  Instale as dependências:
         
